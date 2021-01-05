@@ -5,7 +5,7 @@ Please keep in mind you can no longer claim ~2 char usernames on Soundcloud.
 VirusTotal: https://www.virustotal.com/gui/file/ecee30373e880eec9b5efeda4b072dca7ab0dc0996bcf58f09381545d721d15f/detection
 
 - 2 false-positives because the program was coded in Python & converted to exe.
-- If you'd like to see or use the source code contact me on Telegram: https://t.me/Olympian
+- If you'd like to see or use the source code contact me on Telegram: https://t.me/Possess
 
 # How to use:
 1) Download here: https://github.com/satanic/Soundcloud-Username-Checker/archive/master.zip
